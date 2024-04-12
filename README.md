@@ -1,9 +1,5 @@
 # English-to-French-Translator-Gradio-Interface
 
-<div style="text-align: center;">
-  <img src="https://www.countryflags.io/FR/flat/64.png" alt="French Flag" width="32" height="32"> &nbsp; ➡️ &nbsp;  <img src="https://www.countryflags.io/GB/flat/64.png" alt="British Flag" width="32" height="32">
-</div>
-
 ## A Seamless Translation Experience
 
 This project empowers you to effortlessly translate text from English to French using the power of cutting-edge Transformer models. 
