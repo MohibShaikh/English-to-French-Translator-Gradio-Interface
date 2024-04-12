@@ -1,4 +1,4 @@
-# English-to-French-Translator-Gradio-Interface
+# English to French Translator - Gradio Interface
 
 ## A Seamless Translation Experience
 
